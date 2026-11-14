@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-from bs4html import BeautifulSoup
+from bs4
 import re
 import time
 from reportlab.lib.pagesizes import letter
